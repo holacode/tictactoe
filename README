@@ -1,0 +1,10 @@
+You will need java 8 and latest sbt installed to run this project
+
+To compile application use following command
+#change into project directory
+cd into project directory 
+
+# how to compile code
+run sbt assembly 
+# to run executable run this command
+java -jar target/scala-2.11/tictactoe.jar
