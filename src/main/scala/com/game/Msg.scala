@@ -6,8 +6,9 @@ package com.game
   */
 object Msg {
 
-  val X = "X"
-  val O = "0"
+  // update with space for proper alignment
+  val X = " X"
+  val O = " 0"
 
   val numberFormatException = "Entered invalid number, please enter valid number "
 
